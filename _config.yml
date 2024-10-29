@@ -1,11 +1,11 @@
 # Configs
 
-title: "Jekyll Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Amalia Cortez Profile"
+name: "Profile for Amalia Cortez"
+email: "loramalia2000@gmail.com"
+url: "https://akcortez.github.io"
+baseurl: "/AmaliaCortezProfile"
+repository: "akcortez/AmaliaCortezProfile"
 header:
   image: /assets/images/banner-husky.jpg
 
