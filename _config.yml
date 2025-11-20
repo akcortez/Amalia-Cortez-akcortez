@@ -41,9 +41,9 @@ author:
   avatar : "/assets/images/amaliaCortImage.jpeg"
   bio    : "My name is Amalia Cortez and I am a second-year Computer Science student at Northern Illinois University. I aspire to become a Software Development Engineer and am open to opportunities across industries. I am looking to connect with other like- minded colleagues to grow as a professional and expand my career pursuits."
   location: "DeKalb, Illinois"
-  github : "https://github.com/akcortez"
-  linkedin: "https://www.linkedin.com/in/amalia-cortez-69035732a/" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
-  email  : "loramalia2000@gmail.com"
+  github : https://github.com/akcortez
+  linkedin: \https://www.linkedin.com/in/amalia-cortez-69035732a/ #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
+  email  : loramalia2000@gmail.com
 
 
 # # comments by disqus
