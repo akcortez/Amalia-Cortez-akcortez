@@ -5,7 +5,8 @@ header:
 permalink: /portfolio/index.html
 ---
 
-<details markdown="1"><summary>BP-1 Discovering Open Source</summary>
+<details markdown="1">
+  <summary>BP-1 Discovering Open Source</summary>
 1. What is open source?
 
 Open source is open collaboration with software on a variety of projects that solve a variety of problems that people can apply their knowledge in whatever project they are interested in. It is a concept that continues to grow as time moves on and remains popular through developers. It has many aspects and individuals who contribute to or manage the program.
@@ -25,9 +26,12 @@ Some examples of well-known companies that use open source is Microsoft, Amazon,
 [Amazon](https://aws.amazon.com/opensource/)
 
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/fd4371fc-c46d-4b94-b914-11b3605099c2" /></details>
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/fd4371fc-c46d-4b94-b914-11b3605099c2" />
 
-<details markdown="1"><summary>BP02 - GitHub and Markdown</summary>
+</details>
+
+<details markdown="1">
+  <summary>BP02 - GitHub and Markdown</summary>
 1. What I learned about Markdown and Git?
 
 I learned that git and GitHub are two different things. Git is a version control system, meanwhile GitHub allows a platform for hosting repositories ([GitHub VS Git](https://www.geeksforgeeks.org/git/difference-between-git-and-github/)). Exploring the process of writing code and commits to share with others on a similar project is extremely useful. It allows me to explore how I can make a contribution to projects and track the changes I made easily. I now understand how markdown is extremely common among writing files and documentation for other programmers. It is easy to read and allows an easy implementation of the addition of code snippets to communicate among other people. 
@@ -41,16 +45,20 @@ Markdown and Git allows me to contribute to open source because understanding Gi
 I had used Markdown once and Git a lot during the summer. During my internship I had to make a wiki to handoff information about my project to my team and it made it a lot easier to upload files and express my changes to my team. I got to link absolutely everything I worked on and give them all the supplies/details of my project so that they could continue after me. I used Git as well, so I understood some of the commands and worked on a different branch so that my changes could be tracked within their existing packages. I honestly had a lot of trouble understanding the process of Git since it was extremely easy to run the wrong command and mess up the entire commit, but using it helped me realize what was needed in order to work on the same project with an entire team! 
 
 
-<img width="251" height="201" alt="image" src="https://github.com/user-attachments/assets/67343a95-5b20-44c5-a761-a66f9c01c152" /></details>
+<img width="251" height="201" alt="image" src="https://github.com/user-attachments/assets/67343a95-5b20-44c5-a761-a66f9c01c152" />
 
-<details markdown="1"><summary>BP-3 Explore Open Source Projects</summary>
+</details>
+
+<details markdown="1">
+  <summary>BP-3 Explore Open Source Projects</summary>
 1. How I chose a repository to explore and what I found interesting about its structure, community, and contribution process.
 
    I chose a repository by looking up things I enjoy and seeing if there is open source projects availiable regarding my interests. I also made sure to see if it was in langauges I knew how to write. I found game development and knew I was interested in it. I thought it was interesting how many projects were out there and what companies offer open source projects. I did not realize how much information was in repos and what details they offered. I thought it was extremely helpful the kind of information was provided regarding the project and it makes it a lot easier to insert yourself as a collaborater to the project. I also saw how much talking and communication goes on in repos. I did not realize how easy it was to get help and to reach out to people! I think the contribution process and the steps that goes into it help give a clean setup to adding to the project. It gives a sense of structure to the contributions to keep track of changes made easier.
 
    <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/3bc6ca85-102d-4945-a1e5-253e3d2f2f43" /></details>
 
-<details markdown="1"><summary>BP04 Explore Open Source Revealjs</summary>
+<details markdown="1">
+  <summary>BP04 Explore Open Source Revealjs</summary>
 After exploring Reveal.js, describe how it’s structured, what it’s for, and what you found interesting about the way the project is documented and maintained. Could you imagine yourself contributing to this? Why or why not?
 
 ### Structure
@@ -68,9 +76,12 @@ I could imagine myself contributing to this. It is a nice way to practice HTML a
 
 
 
-<img width="1338" height="431" alt="image" src="https://github.com/user-attachments/assets/fc7a9761-ac17-469a-b87c-224c0fc1ad4e" /></details>
+<img width="1338" height="431" alt="image" src="https://github.com/user-attachments/assets/fc7a9761-ac17-469a-b87c-224c0fc1ad4e" />
 
-<details markdown="1"><summary>Blog Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”</summary>
+</details>
+
+<details markdown="1">
+  <summary>Blog Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”</summary>
 #### Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
 From the presentation I learned that licensing can last up to 90 years after someone passes away because of Mickey Mouse! I thought that was funny because I honestly had no idea. I also learned how important it is to have a license. I thought because it was open source that licensing was not a big thing, but it allows contributors to play their part and add what they want while keeping integrity with these kinds of projects. The open licenses allow people to contribute without worrying about what is hidden or what might not be allowed. It keeps it so they won't get in trouble for putting their input on a project. It creates a framework for what is allowed to be distributed and accessed with the conditions presented. 
 #### How did the Tetris movie shape your understanding of software ownership and distribution?
@@ -85,9 +96,12 @@ The [repo](https://github.com/codedecks-in/LeetCode-Solutions?tab=MIT-1-ov-file#
 
 <p align="center">
 <img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/45952dad-edb4-40de-9d78-6cd69b5712a1" />
-</p></details>
+</p>
 
-<details markdown="1"><summary>BP06 Global Hack Week Experience</summary>
+</details>
+
+<details markdown="1">
+  <summary>BP06 Global Hack Week Experience</summary>
 <img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/7b7de781-d6e8-4cae-8aa5-7b3644b48862" />
 
 ### What you learned from participating in MLH Global Hack Week
@@ -104,9 +118,11 @@ I watched a livestream from Alberto from MLH. He is a Developer Relations Coach 
 
 ### How this experience shaped your view of open source collaboration
 
-This experience shaped my view of open source collaboration and created a deeper understanding of what I can do to contribute to it. I was always taught about contributing, but Alberto showed me more about owning an open source repo and the importance of each piece of the puzzle for people who might want to contribute to mine. I think it shaped my view personally because I will be working on open repos soon and figuring out how to make a repo open source. I learned a lot about open source and the different tools you can use and learn. I used to feel confined to stick to what I already know, but learning more can be an extremely valuable tool for open source projects.</details>
+This experience shaped my view of open source collaboration and created a deeper understanding of what I can do to contribute to it. I was always taught about contributing, but Alberto showed me more about owning an open source repo and the importance of each piece of the puzzle for people who might want to contribute to mine. I think it shaped my view personally because I will be working on open repos soon and figuring out how to make a repo open source. I learned a lot about open source and the different tools you can use and learn. I used to feel confined to stick to what I already know, but learning more can be an extremely valuable tool for open source projects.
+</details>
 
-<details markdown="1"><summary>BP07 Explore Non Code Contribution</summary>
+<details markdown="1">
+  <summary>BP07 Explore Non Code Contribution</summary>
 ## Blog Prompt:
 
 ### What counts as a contribution in open source?
