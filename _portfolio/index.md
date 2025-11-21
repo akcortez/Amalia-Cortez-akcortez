@@ -6,7 +6,7 @@ permalink: /portfolio/index.html
 ---
 
 <details markdown="1">
-  <summary>BP-1 Discovering Open Source</summary>
+  <summary>BP01 Discovering Open Source</summary>
 1. What is open source?
 
 Open source is open collaboration with software on a variety of projects that solve a variety of problems that people can apply their knowledge in whatever project they are interested in. It is a concept that continues to grow as time moves on and remains popular through developers. It has many aspects and individuals who contribute to or manage the program.
@@ -31,7 +31,7 @@ Some examples of well-known companies that use open source is Microsoft, Amazon,
 </details>
 
 <details markdown="1">
-  <summary>BP02 - GitHub and Markdown</summary>
+  <summary>BP02 GitHub and Markdown</summary>
 1. What I learned about Markdown and Git?
 
 I learned that git and GitHub are two different things. Git is a version control system, meanwhile GitHub allows a platform for hosting repositories ([GitHub VS Git](https://www.geeksforgeeks.org/git/difference-between-git-and-github/)). Exploring the process of writing code and commits to share with others on a similar project is extremely useful. It allows me to explore how I can make a contribution to projects and track the changes I made easily. I now understand how markdown is extremely common among writing files and documentation for other programmers. It is easy to read and allows an easy implementation of the addition of code snippets to communicate among other people. 
@@ -50,12 +50,14 @@ I had used Markdown once and Git a lot during the summer. During my internship I
 </details>
 
 <details markdown="1">
-  <summary>BP-3 Explore Open Source Projects</summary>
+  <summary>BP03 Explore Open Source Projects</summary>
 1. How I chose a repository to explore and what I found interesting about its structure, community, and contribution process.
 
    I chose a repository by looking up things I enjoy and seeing if there is open source projects availiable regarding my interests. I also made sure to see if it was in langauges I knew how to write. I found game development and knew I was interested in it. I thought it was interesting how many projects were out there and what companies offer open source projects. I did not realize how much information was in repos and what details they offered. I thought it was extremely helpful the kind of information was provided regarding the project and it makes it a lot easier to insert yourself as a collaborater to the project. I also saw how much talking and communication goes on in repos. I did not realize how easy it was to get help and to reach out to people! I think the contribution process and the steps that goes into it help give a clean setup to adding to the project. It gives a sense of structure to the contributions to keep track of changes made easier.
 
-   <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/3bc6ca85-102d-4945-a1e5-253e3d2f2f43" /></details>
+   <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/3bc6ca85-102d-4945-a1e5-253e3d2f2f43" />
+
+</details>
 
 <details markdown="1">
   <summary>BP04 Explore Open Source Revealjs</summary>
@@ -119,6 +121,7 @@ I watched a livestream from Alberto from MLH. He is a Developer Relations Coach 
 ### How this experience shaped your view of open source collaboration
 
 This experience shaped my view of open source collaboration and created a deeper understanding of what I can do to contribute to it. I was always taught about contributing, but Alberto showed me more about owning an open source repo and the importance of each piece of the puzzle for people who might want to contribute to mine. I think it shaped my view personally because I will be working on open repos soon and figuring out how to make a repo open source. I learned a lot about open source and the different tools you can use and learn. I used to feel confined to stick to what I already know, but learning more can be an extremely valuable tool for open source projects.
+
 </details>
 
 <details markdown="1">
@@ -138,4 +141,6 @@ Diagrams help clarify workflows because it creates a visual on what is being don
 You need to communicate to others and work together to discuss your thoughts and concerns you may have with one another. Being able to communicate what you need towards the contribution allows for ease in understanding what you can put in. Another thing is with collaborating, you need to understand how to work together to make the contribution work as a whole. Doing it piece by piece seperately or doing a different thing entirely will not make a good contribution. 
 
 ### What non code contribution opportunities did you find?
-I found a lot on testing and documentation. Testing is really important because those who contribute that way may see things that the code contributors do not see. When you work on material for so long, finding things may be harder compared to someone who is looking at it the first time. Documentation is important as well. It helps pass along the work already done to someone new who may want to continue. </details>
+I found a lot on testing and documentation. Testing is really important because those who contribute that way may see things that the code contributors do not see. When you work on material for so long, finding things may be harder compared to someone who is looking at it the first time. Documentation is important as well. It helps pass along the work already done to someone new who may want to continue. 
+
+</details>
