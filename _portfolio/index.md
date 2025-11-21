@@ -83,7 +83,7 @@ I could imagine myself contributing to this. It is a nice way to practice HTML a
 </details>
 
 <details markdown="1">
-  <summary>Blog Prompt: “Ownership, Access, and Innovation: What I Learned About Licensing.”</summary>
+  <summary>BP05 Ownership, Access, and Innovation: What I Learned About Licensing</summary>
 #### Reflect on something you learned about open source licenses (e.g., MIT vs GPL, what’s allowed, what’s restricted).
 From the presentation I learned that licensing can last up to 90 years after someone passes away because of Mickey Mouse! I thought that was funny because I honestly had no idea. I also learned how important it is to have a license. I thought because it was open source that licensing was not a big thing, but it allows contributors to play their part and add what they want while keeping integrity with these kinds of projects. The open licenses allow people to contribute without worrying about what is hidden or what might not be allowed. It keeps it so they won't get in trouble for putting their input on a project. It creates a framework for what is allowed to be distributed and accessed with the conditions presented. 
 #### How did the Tetris movie shape your understanding of software ownership and distribution?
