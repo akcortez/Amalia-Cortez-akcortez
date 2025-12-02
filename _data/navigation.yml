@@ -1,14 +1,14 @@
 # the masthead
 main:
-  - title: "Home"
+  - title: "Introduction"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "Resume"
     url: /assets/docs/Resume - Amalia Cortez.pdf
-  - title: "Research"
+  - title: "Blog Posts"
     url: /portfolio/
   # - title: "Teaching"
   #  url: /teaching/
-  - title: "Links"
+  - title: "Projects / Contributions"
     url: /links/
   - title: "Contact"
     url: /contact/
