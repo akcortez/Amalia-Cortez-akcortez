@@ -6,15 +6,11 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
+### Github
+https://github.com/akcortez
 
-### Campus Office
-Northern Illinois University  
-Out on the Field  
-DeKalb, IL 60115-2825  
+### Linkedin
+https://www.linkedin.com/in/amalia-cortez-69035732a/
 
-###### Office Hours:  
-by appointment
-
-### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+### Email
+loramalia2000@gmail.com
